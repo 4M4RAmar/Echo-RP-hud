@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/web/build/static/css/main.94fd72a2.css",
+    "main.js": "/web/build/static/js/main.45fa746a.js",
+    "static/media/pd9mm.png": "/web/build/static/media/pd9mm.93fe942e0c23aabcb954.png",
+    "static/media/smokegrenade.png": "/web/build/static/media/smokegrenade.557292d69d482338e9e0.png",
+    "static/media/stunshotgun.png": "/web/build/static/media/stunshotgun.e2b8347d66968b0b98ae.png",
+    "static/media/screwdriver.png": "/web/build/static/media/screwdriver.9b678cef9ec46f3876f0.png",
+    "static/media/homemade.png": "/web/build/static/media/homemade.ca06b07bb70e35fa8d04.png",
+    "static/media/revolvermk2.png": "/web/build/static/media/revolvermk2.1968aa6935e80ef5be8d.png",
+    "static/media/switchblade.png": "/web/build/static/media/switchblade.81be4db70c86726da927.png",
+    "static/media/dbrevolver.png": "/web/build/static/media/dbrevolver.b9b6c99d4af77763a71e.png",
+    "static/media/empty.png": "/web/build/static/media/empty.33d2dffe234846c56eed.png",
+    "static/media/butterflyknife.png": "/web/build/static/media/butterflyknife.2782806c239c5aa61028.png",
+    "static/media/paintballgun.png": "/web/build/static/media/paintballgun.e16d21178ff1d40dcfce.png",
+    "static/media/m249.png": "/web/build/static/media/m249.9cf9c536a59014dc4a2a.png",
+    "static/media/marston-revolver.png": "/web/build/static/media/marston-revolver.934d83a138c229f9c457.png",
+    "static/media/pd762.png": "/web/build/static/media/pd762.bc00ebe82521767699b2.png",
+    "static/media/ceramicpistol.png": "/web/build/static/media/ceramicpistol.06263ef14d571f736e6d.png",
+    "static/media/pp19.png": "/web/build/static/media/pp19.2e74f4cee09431b650fb.png",
+    "static/media/marksman-rifle.png": "/web/build/static/media/marksman-rifle.8da0533fac1d19bfef42.png",
+    "static/media/m60.png": "/web/build/static/media/m60.aecbec40d5229f346265.png",
+    "static/media/heavy-sniper.png": "/web/build/static/media/heavy-sniper.361427bf9e31b95b33f2.png",
+    "static/media/flamethrower.png": "/web/build/static/media/flamethrower.b67e98242ae833d60589.png",
+    "static/media/m4.png": "/web/build/static/media/m4.a3403dc084be69e6e0e9.png",
+    "index.html": "/web/build/index.html",
+    "main.94fd72a2.css.map": "/web/build/static/css/main.94fd72a2.css.map",
+    "main.45fa746a.js.map": "/web/build/static/js/main.45fa746a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.94fd72a2.css",
+    "static/js/main.45fa746a.js"
+  ]
+}
